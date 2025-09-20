@@ -1,0 +1,12 @@
+{
+    "widgetpro": {
+        "overview": "WidgetPro is a fast widget engine.",
+        "installation": "Run 'install widgetpro' to get started.",
+        "support": "Contact widget support team."
+    },
+    "gadgetmax": {
+        "overview": "GadgetMax automates gadgets.",
+        "setup": "Use 'gadgetmax init' to begin.",
+        "troubleshooting": "If issues, reset your config."
+    }
+}
